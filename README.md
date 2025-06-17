@@ -1,1 +1,1 @@
-# Morse-code-converter
+Morse code encoder/decoder. You choose the option of encoding or decoding and then you provide the appropriate format for the morse code standard. If something seems ambiguous for the program it notifies you.
